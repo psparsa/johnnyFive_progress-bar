@@ -2,5 +2,8 @@
   "name": "johnnyFive_progress-bar",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^2.0.0"
+  }
 }
